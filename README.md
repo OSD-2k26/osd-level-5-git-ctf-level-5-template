@@ -30,7 +30,7 @@ You must create these paths yourself.
 
 # ⚠️ Rules of the Maze
 
-The artifact must move forward, not be duplicated
+The **artifact** must move forward, not be duplicated
 
 Feature branches must never be merged into main
 
